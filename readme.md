@@ -9,17 +9,27 @@
 ### Основная структура проекта
 
 contact_management/
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── java/
+
 │   │   │   └── ContactManager/
+
 │   │   │       ├── controller/
+
 │   │   │       ├── service/
+
 │   │   │       ├── repository/
+
 │   │   │       └── model/
+
 │   │   └── resources/
+
 │   └── test/
-│       └── java/
-│           └── ContactsApp/
+
 ├── pom.xml
+
 └── README.md
